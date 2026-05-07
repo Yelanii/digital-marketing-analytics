@@ -127,20 +127,6 @@ I contributed to:
 
 ---
 
-# Project Structure
-
-```text
-daraz-usability-analysis/
-│
-├── report/
-│   └── daraz_usability_analysis_report.pdf
-│
-├── README.md
-└── .gitignore
-```
-
----
-
 # Business and UX Impact
 
 This project demonstrates how usability testing and statistical analysis can support:
